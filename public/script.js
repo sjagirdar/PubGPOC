@@ -3,7 +3,7 @@ const imgB = document.getElementById('imgB');
 const button = document.getElementById('next-btn');
 
 let currentIndex = 1;
-const maxImages = 18;
+const maxImages = 35;
 
 let activeImg = imgA;
 let hiddenImg = imgB;
